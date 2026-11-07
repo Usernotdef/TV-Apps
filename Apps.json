@@ -1,0 +1,9 @@
+{
+  "packages": [
+    {
+      "id": "org.csweb.tv",
+      "title": "CSWeb TV",
+      "manifestUrl": "https://github.com/sostk/cloudstream-webos-native/releases/download/v0.6.0/org.csweb.tv.manifest.json"
+    }
+  ]
+}
